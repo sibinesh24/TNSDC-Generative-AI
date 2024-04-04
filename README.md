@@ -1,7 +1,9 @@
 Interactive Storytelling AI
+
 Welcome to the Interactive Storytelling AI project! This repository contains code for an AI-powered storytelling tool that generates interactive narratives based on user prompts and inputs.
 
 Overview
+
 Interactive Storytelling AI utilizes advanced natural language processing techniques to generate personalized and engaging stories. The project leverages Generative Adversarial Networks (GANs) to craft immersive narratives tailored to user specifications.
 
 Requirements
